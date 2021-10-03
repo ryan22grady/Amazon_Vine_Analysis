@@ -12,15 +12,19 @@ We focused on the US reviews for video games.
 ## Results
 ### Total number of reviews
 - Vine reviews
+
 ![Screen Shot 2021-10-03 at 5 55 28 PM](https://user-images.githubusercontent.com/84995704/135774319-bbf5bf49-82e3-4fe5-9da7-bc9429327f9e.png)
 
 - Non-Vine reviews 
+
 ![Screen Shot 2021-10-03 at 5 56 32 PM](https://user-images.githubusercontent.com/84995704/135774331-06821a45-6b0c-4877-a1a1-9aa368d3dcf0.png)
 
 
 ### Total number of 5-star reviews
 - Vine reviews 
+
 ![Screen Shot 2021-10-03 at 5 57 17 PM](https://user-images.githubusercontent.com/84995704/135774374-e45cf3b2-a5cf-4096-9960-94deaaf0a170.png)
 
 - Non-Vine reviews
+
 ![Screen Shot 2021-10-03 at 5 57 48 PM](https://user-images.githubusercontent.com/84995704/135774383-b9d0c2f8-3004-4e29-9be8-3eb13e62b881.png)
